@@ -1,0 +1,9 @@
+name: angel_flutter
+dependencies:
+  angel_client: ">=1.1.0 <2.0.0"
+  flutter:
+    sdk: flutter
+  http_mock: ^1.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
