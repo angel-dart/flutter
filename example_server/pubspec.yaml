@@ -1,0 +1,4 @@
+name: "example_server"
+dependencies: 
+  angel_file_service: "^1.1.0"
+  angel_framework: "^1.1.0"

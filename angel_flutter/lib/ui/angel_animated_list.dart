@@ -73,7 +73,7 @@ class AngelAnimatedListState extends State<AngelAnimatedList> {
         }
 
         if (!snapshot.hasData) {
-          return widget.defaultChild ?? new Container();
+          return widget.defaultChild != null ? widget.defaultChild(context) : new Container();
         }
 
         if (widget.emptyState != null && snapshot.data.isEmpty) {

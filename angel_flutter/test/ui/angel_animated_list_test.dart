@@ -4,7 +4,6 @@ import 'package:angel_client/base_angel_client.dart';
 import 'package:angel_flutter/ui/angel_animated_list.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:http/http.dart' as http;
 import 'package:http_mock/http_mock.dart';
 
 void main() {

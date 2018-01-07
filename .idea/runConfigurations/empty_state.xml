@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="empty state" type="FlutterTestConfigType" factoryName="Flutter Test" singleton="true" nameIsGenerated="true">
+    <option name="testName" value="empty state" />
+    <option name="testFile" value="$PROJECT_DIR$/angel_flutter/test/ui/angel_animated_list_test.dart" />
+    <method />
+  </configuration>
+</component>
