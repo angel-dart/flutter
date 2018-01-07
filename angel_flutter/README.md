@@ -6,7 +6,7 @@ Widgets and helpers for developing Flutter clients for Angel applications.
 ## `AngelAnimatedList`
 Found in `package:angel_flutter/ui/angel_animated_list.dart`.
 
-![AngelAnimatedList screenshot](../screenshots/todos.png)
+![AngelAnimatedList screenshot](https://github.com/angel-dart/flutter/raw/master/screenshots/todos.png)
 
 Similar to the `FirebaseAnimatedList` widget in `package:firebase_database`, this widget
 is a `ListView` that updates itself in real-time, based on a `Service` or `ServiceList`
