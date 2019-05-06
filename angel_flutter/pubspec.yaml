@@ -1,16 +1,17 @@
 name: angel_flutter
-version: 1.0.0-alpha
+version: 1.0.0-alpha.1
 description: Widgets and helpers for developing Flutter clients for Angel applications.
 author: Tobe O <thosakwe@gmail.com>
 homepage: https://github.com/angel-dart/flutter
 environment:
-  sdk: ">=1.19.0"
+  sdk: ">=2.0.0"
 dependencies:
-  angel_client: ">=1.1.0 <2.0.0"
+  angel_client: ^2.0.0
+  async: ^2.0.0
   flutter:
     sdk: flutter
   meta: ^1.0.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  http_mock: ^1.0.0
+  pedantic: ^1.0.0
